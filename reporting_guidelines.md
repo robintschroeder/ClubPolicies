@@ -36,7 +36,7 @@ Once the team has a complete account of the events they will make a decision as 
 * A private reprimand from the Code of Conduct response team to the individual(s) involved.
 * A public reprimand.
 * An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
-* A permanent or temporary ban from some or all Stumptown Syndicate spaces (events, meetings, mailing lists, IRC, etc.)
+* A permanent or temporary ban from some or all FVGCC spaces (events, meetings, mailing lists, IRC, etc.)
 * A request to engage in mediation and/or an accountability plan.
 
 We'll respond within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
@@ -47,7 +47,7 @@ Finally, the response team will make a report on the situation to the FVGCC Foun
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the FVGCC's Founders at fvgcc12@gmail.com with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the FVGCC's Founders at fvgcc12@gmail.com with your appeal and the founders will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
